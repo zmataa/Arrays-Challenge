@@ -2,7 +2,7 @@
 //  Arrays_ChallengeApp.swift
 //  Arrays Challenge
 //
-//  Created by Tom Bredemeier on 10/11/21.
+//  Created by Betty Holberton on 10/11/21.
 //
 
 import SwiftUI
